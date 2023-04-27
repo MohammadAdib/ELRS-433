@@ -20,7 +20,7 @@ Change the values in user_defines for bind phrase and locality like below
 # FLASHING
 In the PlatformIO menu (left side of VS code) click on the "Unified_ESP32_900_TX_via_UART", then wait a few seconds as it loads, then click "Upload" with the module plugged in. Do the same for the RX ("Unified_ESP32_900_TX_via_UART")
 
-![image](https://user-images.githubusercontent.com/1324144/231937139-5e73e033-5cf1-488c-b9d1-206ac9429ce8.png)
+![image](https://user-images.githubusercontent.com/1324144/235013543-5b0bdb49-be01-4555-b2ef-55fc8d8b9250.png)
 
 As you flash the TX, you will get a prompt like this. Please choose 4.
 
