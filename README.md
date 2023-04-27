@@ -1,5 +1,5 @@
 # ELRS-433
-Pioneering an end-end ELRS 433 setup as of early 2023. Here you will find STLs to print a case for the TX and RX. The TX case allows for mounting to a standard JR bay and the RX case allows for easy mounting to any flat surface.
+Pioneering an end-end ELRS 433 setup as of early 2023. Here you will find STLs to print a case for the TX and RX as well as instructions on how to get it all working. The TX case allows for mounting to a standard JR bay and the RX case allows for easy mounting to any flat surface.
 
 ![image](https://user-images.githubusercontent.com/1324144/235009558-79952516-3b14-47f2-b9f9-011f956f0802.png)
 ![image](https://user-images.githubusercontent.com/1324144/235009440-e0f3cc6b-6ad9-4de3-b4aa-b2fab7c1f22f.png)
@@ -25,6 +25,8 @@ In the PlatformIO menu (left side of VS code) click on the "Unified_ESP32_900_TX
 As you flash the TX, you will get a prompt like this. Please choose 4.
 
 ![image](https://user-images.githubusercontent.com/1324144/235009215-3ea17c77-f1fc-4ed1-8400-7234bbca62b6.png)
+
+After flashing please use the latest LUA script on your radio as well. https://www.expresslrs.org/quick-start/transmitters/lua-howto/
 
 # WIRING
 The TX board needs a 5v supply, so a BEC will be needed to step down VBat coming out of the JR bay pins. Connect pin 13 of the TTGO to the bottom pin of the JR bay.
