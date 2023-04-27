@@ -30,11 +30,12 @@ After flashing please use the latest LUA script on your radio as well. https://w
 
 # WIRING
 The TX board needs a 5v supply, so a BEC will be needed to step down VBat coming out of the JR bay pins. Connect pin 13 of the TTGO to the bottom pin of the JR bay.
+
 ![image](https://user-images.githubusercontent.com/1324144/235010749-d7dbcea0-d19f-4793-8351-5112d85d16ec.png)
+
 ![image](https://user-images.githubusercontent.com/1324144/235010916-2626b5ed-dd53-4765-8f19-79d09643d214.png)
 
 The RX also needs a 5v supply. Get it from anywhere on the FC such as the servo rail. RX and TX on the TTGO must be connected to RX and TX of the FC (RX going to TX and TX going to RX)
-
 
 # PRINTING
 Print tx1/2/3 and glue 2 -> 3. User threaded inserts (m3) to screw on 1 -> 2 with the TTGO screwed to 2.
