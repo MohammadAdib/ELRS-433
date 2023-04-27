@@ -1,5 +1,5 @@
 # ELRS-433
-Pioneering an end-end ELRS 433 setup as of early 2023. Here you will find STLs to print a case for the TX and RX as well as instructions on how to get it all working. The TX case allows for mounting to a standard JR bay and the RX case allows for easy mounting to any flat surface.
+Pioneering an end-end ELRS 433 setup as of early 2023. Here you will find STLs to print a case for the TX and RX as well as instructions on how to get it all working. The TX case allows for mounting to a standard JR bay and the RX case allows for easy mounting to any flat surface. It's a 50mw bidirectional link, with an estimated range of many hundreds of km.
 
 ![image](https://user-images.githubusercontent.com/1324144/235009558-79952516-3b14-47f2-b9f9-011f956f0802.png)
 ![image](https://user-images.githubusercontent.com/1324144/235009440-e0f3cc6b-6ad9-4de3-b4aa-b2fab7c1f22f.png)
