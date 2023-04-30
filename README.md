@@ -35,7 +35,7 @@ The TX board needs a 5v supply, so a BEC will be needed to step down VBat coming
 
 ![image](https://user-images.githubusercontent.com/1324144/235010916-2626b5ed-dd53-4765-8f19-79d09643d214.png)
 
-The RX also needs a 5v supply. Get it from anywhere on the FC such as the servo rail. RX and TX on the TTGO must be connected to RX and TX of the FC (RX going to TX and TX going to RX)
+The RX also needs a 5v supply. Get it from anywhere on the FC such as the servo rail. RX and TX (TX0 and RX0 pads for the CRSF output) on the TTGO must be connected to RX and TX of the FC (RX going to TX and TX going to RX). 
 
 # PRINTING
 Print tx1/2/3 and glue 2 -> 3. User threaded inserts (m3) to screw on 1 -> 2 with the TTGO screwed to 2.
